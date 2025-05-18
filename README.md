@@ -43,6 +43,7 @@ cd ecommerce_api_testing
 
 3. Run the Tests
     python -m pytest -v
+```
 
     
 📌 Sample Output

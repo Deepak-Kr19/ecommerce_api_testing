@@ -43,7 +43,6 @@ cd ecommerce_api_testing
 
 3. Run the Tests
     python -m pytest -v
-```
 
     
 📌 Sample Output
@@ -52,6 +51,8 @@ test_api_suite.py::test_get_single_product PASSED
 test_api_suite.py::test_get_invalid_product PASSED
 test_api_suite.py::test_user_login_success PASSED
 test_api_suite.py::test_user_login_invalid_password PASSED
+
+```
 
 📚 Learning Objectives
 Understand REST API testing concepts
